@@ -1,0 +1,19 @@
+{
+  "Launch": {
+    "LatestVersion": 2,
+    "NewVersionUrl": "https://github.com/KyNiemTLBB/ClientPatch-Test/releases/download/1.0000.0005/Launch.zip"
+  },
+  "LatestVersion": "1.0000.0000",
+  "Patches": [
+    {
+      "VersionFrom": "",
+      "VersionTo": "",
+      "Url": ""
+    },
+    {
+      "VersionFrom": "",
+      "VersionTo": "",
+      "Url": ""
+    }
+  ]
+}

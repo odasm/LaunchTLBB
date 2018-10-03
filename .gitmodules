@@ -1,0 +1,6 @@
+[submodule "Dependencies/quazip"]
+	path = Dependencies/quazip
+	url = https://github.com/stachenov/quazip.git
+[submodule "Dependencies/ee"]
+	path = Dependencies/ee
+	url = https://gitlab.com/HadesD-Resources/LaunchTLBB-EE.git
